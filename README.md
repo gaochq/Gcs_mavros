@@ -38,25 +38,6 @@ test\_mavros package
 This package contain hand-tests and [manual page][test] for APM and PX4 SITL.
 Please see [README][test] first!
 
-
-mavros\_msgs package
---------------------
-
-This package contain messages and services used in mavros.
-
-
-Support forums and chats
-------------------------
-
-Please ask your questions not related to bugs/feauture requests on:
-
-- [px4users Google Group (Mailing List) ](https://groups.google.com/forum/#!forum/px4users)
-- [Mavros on Gitter IM](https://gitter.im/mavlink/mavros)
-- [PX4/Firmware on Gitter IM](https://gitter.im/PX4/Firmware)
-
-We'd like to keep the project bugtracker as free as possible, so please contact via the above methods. You can also PM us via Gitter.
-
-
 CI Statuses
 -----------
 
